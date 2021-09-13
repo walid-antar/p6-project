@@ -22,4 +22,6 @@ le DB_LINK;
 
 le TOKEN_SECRET_KEY;
 
+Il faudra crée aussi un dossier images dans le back-end . Celui-ci contiendra les images des photos des sauces ajoutés par l'utilisateur .
+
 Pour lancer le projet, lancer node server ou si vous avez nodemon lancez nodemon server
